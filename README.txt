@@ -1,0 +1,1 @@
+활성화 명령어 conda activate edgevision

@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# VS Code local settings
+.vscode/
+
+# Large datasets
+data/
+datasets/
+
+# PyTorch model files
+*.pt
+*.pth
+*.onnx
